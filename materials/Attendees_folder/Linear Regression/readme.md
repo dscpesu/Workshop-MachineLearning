@@ -1,1 +1,5 @@
-https://colab.research.google.com/drive/1DQpo-fmmZXaqqoJI3bg7-5zmzY4-HHNa
+### Google Colab :
+http://bit.ly/DSC_Google_Colab
+
+### Tensorflow Playground :
+http://bit.ly/DSC_TF_playground
